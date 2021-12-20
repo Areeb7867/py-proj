@@ -28,7 +28,7 @@ while x == "y":
         print("| O    O |")
         print("|        |")
         print("| O    O |")
-        print("----------")
+        print("-----------")
     if number == 5:
         print("----------")
         print("| O    O |")
